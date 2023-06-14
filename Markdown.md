@@ -9,3 +9,9 @@ Declaring headings
 HTML provides content headings, such as the <h1> tag. In Markdown, this is supported via the # symbol. Just use one # for each heading level from 1-6.
   Ex
   ###### This is H6 text
+
+  to order
+  
+  1. First
+1. Second
+1. Third
