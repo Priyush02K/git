@@ -4,3 +4,8 @@ Markdown exists to shield content creators from the overhead of HTML. While HTML
 
 This is *italic* text.
 This is also _italic_ text.
+
+Declaring headings
+HTML provides content headings, such as the <h1> tag. In Markdown, this is supported via the # symbol. Just use one # for each heading level from 1-6.
+  Ex
+  ###### This is H6 text
