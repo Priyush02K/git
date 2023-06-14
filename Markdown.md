@@ -15,3 +15,27 @@ HTML provides content headings, such as the <h1> tag. In Markdown, this is suppo
   1. First
 1. Second
 1. Third
+  
+  
+  - First
+  - Nested
+- Second
+- Third.
+  
+  Building tables
+You can construct tables using a combination of pipes (|) for column breaks and dashes (-) to designate the prior row as a header.
+  First|Second
+-|-
+1|2
+3|4
+  
+  
+  > This is quoted text.
+  
+  Here is a<br />line break
+  
+  ```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
