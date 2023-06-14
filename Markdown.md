@@ -39,3 +39,11 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+  
+ Tracking task lists
+You can create task lists within issues or pull requests using the following syntax. These can be helpful to track progress when used in the body of an issue or pull request
+  
+  
+  - [x] First task
+- [x] Second task
+- [ ] Third task
